@@ -1,7 +1,12 @@
 ### 👋 Hi, I'm Flavio Bovio
 
 
-** I am a Developer and Data Scientist with vast experience in different areas, I have recently completed a bootcamp in data science to improve my skills. If you want to know more about me, do not hesitate to contact me. **
+I am a Developer and Data Scientist with vast experience in different areas, I have recently completed a bootcamp in data science to improve my skills. If you want to know more about me, do not hesitate to contact me.
+- 🔭 I’m currently working on 30vio
+- 📫 How to reach me: :envelope: flavioboviovt@gmail.com
+   *[LinkedIn](https://www.linkedin.com/in/flavio-bovio/)*
+
+
 
 <!--
 **flaviobovio/flaviobovio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
