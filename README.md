@@ -8,7 +8,7 @@
 - :mag: I'm searching for new challenges and opportunities
 - :swimming_man: In my free time i like swim
 
-<i>src="icons/python.png"</i>
+<img>src="icons/python.png"</img>
 ![Alt text](icons/python.png)
 
 <!--
