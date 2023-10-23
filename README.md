@@ -4,8 +4,8 @@
 ***I am a Developer and Data Scientist with vast experience in different areas, I have recently completed a bootcamp in data science to improve my skills. If you want to know more about me, do not hesitate to contact me.***
 
 - 🔭 I’m currently working on 30vio
-- 📫 How to reach me:
-  :envelope: <flavioboviovt@gmail.com>
+- :envelope: Contact me:
+   <flavioboviovt@gmail.com>
   *[LinkedIn](https://www.linkedin.com/in/flavio-bovio/)*
 
 
