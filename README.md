@@ -8,7 +8,9 @@
 - :mag: I'm searching for new challenges and opportunities
 - :swimming_man: In my free time i like swim
 
-
+<p>Tecnologies
+![Alt text](icons/python.png)
+</p>
 
 <!--
 **flaviobovio/flaviobovio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
