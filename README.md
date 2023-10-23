@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on 30vio
 - :envelope: Contact me:
-   <flavioboviovt@gmail.com>
-  *[LinkedIn](https://www.linkedin.com/in/flavio-bovio/)*
+   - <flavioboviovt@gmail.com>
+   - *[LinkedIn](https://www.linkedin.com/in/flavio-bovio/)*
 
 
 
