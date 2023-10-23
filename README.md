@@ -5,7 +5,7 @@
 
 - :scientist: I’m currently working on 30vio
 - :eyeglasses: I'm always looking to acquire new skills
-- :mag: I'm Searching for new challenges and opportunities
+- :mag: I'm searching for new challenges and opportunities
 
 
 
