@@ -8,7 +8,12 @@
 - :mag: I'm searching for new challenges and opportunities
 - :swimming_man: In my free time i like swim
 
-![Alt text](icons/python.png)
+
+![Alt text](icons/data-science.png)![Alt text](icons/blank.png)![Alt text](icons/python.png)![Alt text](icons/blank.png)![Alt text](icons/mysql.png)![Alt text](icons/blank.png)![Alt text](icons/linux.png)![Alt text](icons/blank.png)![Alt text](icons/git.png)![Alt text](icons/blank.png)![Alt text](icons/jupyter.png)![Alt text](icons/blank.png)![Alt text](icons/apache.png)![Alt text](icons/blank.png)![Alt text](icons/javascript.png)![Alt text](icons/blank.png)![Alt text](icons/google-cloud.png)![Alt text](icons/blank.png)![Alt text](icons/docker.png)    
+
+
+
+
 
 <!--
 **flaviobovio/flaviobovio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
