@@ -11,6 +11,20 @@
 ***My Tech Skills***
 
 ![Alt text](icons/data-science.png)![Alt text](icons/blank.png)![Alt text](icons/python.png)![Alt text](icons/blank.png)![Alt text](icons/mysql.png)![Alt text](icons/blank.png)![Alt text](icons/linux.png)![Alt text](icons/blank.png)![Alt text](icons/git.png)![Alt text](icons/blank.png)![Alt text](icons/jupyter.png)![Alt text](icons/blank.png)![Alt text](icons/apache.png)![Alt text](icons/blank.png)![Alt text](icons/javascript.png)![Alt text](icons/blank.png)![Alt text](icons/google-cloud.png)![Alt text](icons/blank.png)![Alt text](icons/docker.png)    
+- Python
+- MySQL
+- Linux
+- Pandas
+- Web2py
+- HTML5
+- Streamlit
+- Power BI
+- JavaScript
+- Flask
+- Google Cloud Platform (GCP)
+- SQLite
+- Jupyter Notebooks
+
 
 
 
