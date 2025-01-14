@@ -22,6 +22,7 @@
 - JavaScript
 - Flask
 - Google Cloud Platform (GCP)
+- Docker
 - SQLite
 - Jupyter Notebooks
 
