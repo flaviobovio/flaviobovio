@@ -16,6 +16,7 @@
 - Linux
 - Pandas
 - Web2py
+- Django
 - HTML5
 - Streamlit
 - Power BI
